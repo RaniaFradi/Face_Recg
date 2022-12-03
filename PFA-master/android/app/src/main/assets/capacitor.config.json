@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "PFA",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
